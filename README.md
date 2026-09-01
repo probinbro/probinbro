@@ -60,16 +60,6 @@ Six starter builds, one per sector, so a client can see their own kind of site b
 
 <br/>
 
-## Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probinbro&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" alt="Top languages" />
-
-</div>
-
-<br/>
-
 ## Work with me
 
 I take on client builds, portfolio sites and one-off pages. If you have something in mind, the fastest route is the contact form on my portfolio, or a message on LinkedIn.
